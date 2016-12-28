@@ -1,4 +1,6 @@
 i am a legend of kaikai
 commit come
 commit come come
-commit tiankai
+=======
+fix bug
+>>>>>>> tiankai
